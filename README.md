@@ -12,4 +12,5 @@ used for real-time prediction.
 The program runs in real-time while EEG data are streamed and is written to 
 follow precise timing during an attentional flexiblity task (Oh et al., Brain
 and Cognition, 2014) running in Presentation Software. However, the code 
-can be modified to work with other tasks and software.
+can be modified to work with other tasks and software if the core concept 
+for closed-loop brain stimulation remains the same.
