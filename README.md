@@ -1,6 +1,6 @@
 # closedloop
 Scripts for closed-loop stimulation based on real-time prediction
-of impending lapses in attention
+of impending lapses in attention shifting. Published at https://doi.org/10.1038/s41593-026-02294-0
 
 Usage: Once you have installed required dependencies, the closed-loop
 stimulation GUI is launched through the terminal with python GMICLES.py
